@@ -1,5 +1,6 @@
 # MyCompany-ASP.NET
-It's a website
+It's a website in C#. 
+
 I have used:
 Visual Studio 2019
 MS SQL Server 2019
