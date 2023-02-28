@@ -10,3 +10,9 @@ ASP.NET Core MVC 3.1,
 HTML5,
 JavaScript,
 SASS 
+
+
+PowerShell:
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Add-Migration InitialCreate
+Update-Database
