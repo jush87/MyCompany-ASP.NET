@@ -2,11 +2,11 @@
 It's a website in C#. 
 
 I have used:
-Visual Studio 2019,
-MS SQL Server 2014,
+Visual Studio,
+MS SQL Server,
 C#, 
 Entity Framework Core + Migrations + Identity,
-ASP.NET Core MVC 3.1,
+ASP.NET Core MVC,
 HTML5,
 JavaScript,
 SASS 
